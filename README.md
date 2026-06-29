@@ -16,6 +16,21 @@ Faculty VII (Economics & Management), Chair of Economics and Infrastructure Poli
 
 ---
 
+## Contents
+
+- [Abstract](#abstract)
+- [Background: the EU rules for renewable hydrogen](#background-the-eu-rules-for-renewable-hydrogen)
+- [The model](#the-model)
+- [Scenarios](#scenarios)
+- [Key findings](#key-findings)
+- [The report](#the-report)
+- [Repository contents](#repository-contents)
+- [Authors & acknowledgements](#authors--acknowledgements)
+- [Citation](#citation)
+- [License](#license)
+
+---
+
 ## Abstract
 
 This paper investigates the impact of the European Union's regulatory framework for
