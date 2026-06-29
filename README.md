@@ -8,7 +8,7 @@ investment pathways of a coupled European energy system on the road to 2050.
 
 **Authors:** Toyah Hohenstein · Leonard Schmitz · Paul Weishaupt · Franz Wendel
 **Supervisor:** Dr. Konstantin Löffler
-**Course:** Energy Sector Modelling (EW MOD), Technische Universität Berlin —
+**Institution:** Technische Universität Berlin —
 Faculty VII (Economics & Management), Chair of Economics and Infrastructure Policy (WIP)
 **Date:** September 2025
 
@@ -143,15 +143,14 @@ cost, capacity, renewable generation, emissions, trade and reliability, and the 
 - **Paul Weishaupt**
 - **Franz Wendel**
 
-Supervised by **Dr. Konstantin Löffler** at TU Berlin (WIP), course *Energy Sector
-Modelling (EW MOD)*. The model builds on the open teaching framework of that course.
+Supervised by **Dr. Konstantin Löffler** at TU Berlin (WIP). The model builds on the
+open teaching framework of the course.
 
 ## Citation
 
 > Hohenstein, T., Schmitz, L., Weishaupt, P., & Wendel, F. (2025).
 > *The Effects of Regulatory Rules for Renewable Hydrogen — Examination of the Change in
-> Energy System Cost.* Term paper, Energy Sector Modelling (EW MOD),
-> Technische Universität Berlin.
+> Energy System Cost.* Term paper, Technische Universität Berlin.
 
 A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
 
