@@ -141,9 +141,9 @@ cost, capacity, renewable generation, emissions, trade and reliability, and the 
 - **Leonard Schmitz**
 - **Paul Weishaupt**
 - **Franz Wendel**
+- **Dr. Konstantin Löffler** (supervisor)
 
-Supervised by **Dr. Konstantin Löffler** at TU Berlin (WIP). The model builds on the
-open teaching framework of the course.
+The model builds on the open teaching framework of the course at TU Berlin (WIP).
 
 ## Citation
 
