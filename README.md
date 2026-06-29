@@ -133,7 +133,6 @@ cost, capacity, renewable generation, emissions, trade and reliability, and the 
 | `00_default.jl` … `03_geographic_correlation.jl` | The four scenario models (Julia/JuMP). |
 | `helper_functions.jl`, `colors.jl` | Data read-in, result post-processing, and plotting colours. |
 | `data/` | All model inputs as CSV — sets, costs, capacities, efficiencies, and demand / capacity-factor profiles. |
-| `Project.toml` | The Julia environment used for the study. |
 | `results/` | Where each scenario writes its result tables (regenerated from the model). |
 
 ## Authors & acknowledgements
