@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the term paper below."
+title: "Energy Systems Modelling — Regulatory Rules for Renewable Hydrogen"
+abstract: >-
+  A bottom-up European energy-system optimisation model (Julia/JuMP) that
+  quantifies how the EU regulatory requirements for renewable hydrogen
+  (additionality, temporal correlation and geographical correlation) affect
+  total energy-system cost and investment pathways to 2050.
+type: software
+authors:
+  - family-names: Hohenstein
+    given-names: Toyah
+  - family-names: Schmitz
+    given-names: Leonard
+  - family-names: Weishaupt
+    given-names: Paul
+  - family-names: Wendel
+    given-names: Franz
+date-released: "2025-09-30"
+references:
+  - type: report
+    title: "The Effects of Regulatory Rules for Renewable Hydrogen — Examination of the Change in Energy System Cost"
+    authors:
+      - family-names: Hohenstein
+        given-names: Toyah
+      - family-names: Schmitz
+        given-names: Leonard
+      - family-names: Weishaupt
+        given-names: Paul
+      - family-names: Wendel
+        given-names: Franz
+    institution:
+      name: "Technische Universität Berlin — Chair of Economics and Infrastructure Policy (WIP), Energy Sector Modelling (EW MOD)"
+    year: 2025

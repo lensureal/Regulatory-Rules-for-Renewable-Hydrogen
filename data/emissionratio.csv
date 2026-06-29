@@ -1,0 +1,17 @@
+﻿technology,value
+HB_Gas_Boiler,1
+HB_Oil_Boiler,1
+P_Gas_CCS,0.12
+CHP_Biomass_Solid,0
+CHP_Biomass_Solid_CCS,-0.88
+CHP_Coal_Hardcoal,1
+CHP_Gas_CCGT_Natural,1
+CHP_Gas_CCGT_Natural_CCS,0.12
+CHP_Hydrogen_FuelCell,0
+CHP_Oil,1
+PSNG_Road_ICE,1
+PSNG_Road_LNG,1
+PSNG_Road_PHEV,1
+P_Coal_Hardcoal,1
+P_Gas_CCGT,1
+P_Oil,1
